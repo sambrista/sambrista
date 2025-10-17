@@ -28,7 +28,7 @@ Technology and programming have been lifelong companions, and I spend much of my
 
 ### 📫 Let's Connect!
 
-- **LinkedIn:** [linkedin.com/in/alfonso-jim%C3%A9nez-v](https://www.linkedin.com/in/alfonso-jim%C3%A9nez-v/)
+- **LinkedIn:** [https://www.linkedin.com/in/alfonso-jimenez/](https://www.linkedin.com/in/alfonso-jimenez/)
 - **Personal Blog:** [alfonsojimenez.net](https://alfonsojimenez.net)
 
 ---
