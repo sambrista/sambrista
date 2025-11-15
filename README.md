@@ -1,4 +1,4 @@
-## 👨‍💻 Hello! I'm Alfonso 👨‍🏫
+## Hello! I'm Alfonso
 
 ### Welcome to my GitHub profile
 
@@ -8,7 +8,7 @@ Technology and programming have been lifelong companions, and I spend much of my
 
 ---
 
-### 💻 A bit more about me:
+### A bit more about me:
 
 - **Developer and Educator:** My career has allowed me to balance industry experience with teaching. I love sharing knowledge and helping to train the next generation of developers.
 - **Retro Computing Enthusiast:** I enjoy reviving and exploring older technologies, understanding their inner workings, and their influence on modern tech.
@@ -17,7 +17,7 @@ Technology and programming have been lifelong companions, and I spend much of my
 
 ---
 
-### 🚀 Skills and Tools:
+### Skills and Tools:
 
 - **Programming Languages:** Python, PHP, C, JavaScript
 - **Hardware Platforms:** Arduino, Raspberry Pi
@@ -26,7 +26,7 @@ Technology and programming have been lifelong companions, and I spend much of my
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 - **LinkedIn:** [https://www.linkedin.com/in/alfonso-jimenez/](https://www.linkedin.com/in/alfonso-jimenez/)
 - **Personal Blog:** [alfonsojimenez.net](https://alfonsojimenez.net)
