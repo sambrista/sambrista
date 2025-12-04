@@ -6,16 +6,12 @@ I'm a **Computer Engineer** with a deep passion for teaching and technology. Cur
 
 Technology and programming have been lifelong companions, and I spend much of my free time exploring from emerging tech or new development methodologies to retro computing.
 
----
-
 ### A bit more about me:
 
 - **Developer and Educator:** My career has allowed me to balance industry experience with teaching. I love sharing knowledge and helping to train the next generation of developers.
 - **Retro Computing Enthusiast:** I enjoy reviving and exploring older technologies, understanding their inner workings, and their influence on modern tech.
 - **Favorite Language:** Can't decide between Python and C. I appreciate Python's versatility and ease of use, and C's possibilities efficiency for low-level programming.
 - **Other Interests:** Arduino, Linux, and the open-source world. I'm always exploring new frameworks, tools, and environments.
-
----
 
 ### Skills and Tools:
 
@@ -24,13 +20,9 @@ Technology and programming have been lifelong companions, and I spend much of my
 - **Operating Systems:** GNU/Linux, Windows
 - **Technologies and Tools:** Docker, Git, MySQL, HTML/CSS, Bash Scripting, Unity 3D
 
----
-
 ### Let's Connect!
 
 - **LinkedIn:** [https://www.linkedin.com/in/alfonso-jimenez/](https://www.linkedin.com/in/alfonso-jimenez/)
 - **Personal Blog:** [alfonsojimenez.net](https://alfonsojimenez.net)
-
----
 
 Thanks for visiting my profile! Feel free to reach out if you have any questions, want to collaborate, or simply chat about tech!
