@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub profile
 
-I'm a **Computer Engineer** and **Ph.D. in Computer Science**, passionate about technology, education, and innovation. I currently work as a **Vocational Training Teacher in IT programs**, helping students develop both technical expertise and industry-ready skills while staying actively engaged in the latest developments in software engineering and computing education.
+I'm a **Computer Engineer** and **Ph.D. in Advanced Computing**, passionate about technology, education, and innovation. I currently work as a **Vocational Training Teacher in IT programs**, helping students develop both technical expertise and industry-ready skills while staying actively engaged in the latest developments in software engineering and computing education.
 
 Technology and programming have been lifelong companions, and I spend much of my free time exploring from emerging tech or new development methodologies to retro computing.
 
